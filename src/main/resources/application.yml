@@ -1,0 +1,8 @@
+spring:
+# thymeleaf:
+#    mode: HTML
+  thymeleaf:
+    cache: false
+  profiles:
+    active: dev
+
